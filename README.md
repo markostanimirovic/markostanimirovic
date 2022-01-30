@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Marko Stanimirović
 
-I'm a member of the [NgRx](https://github.com/ngrx/platform) team, Senior Frontend Developer at [JobCloud](https://www.jobcloud.ch/c/en),
+I'm a member of the [NgRx](https://github.com/ngrx/platform) team, Senior Frontend Engineer at [JobCloud](https://www.jobcloud.ch/c/en),
 and organizer of the [Angular Belgrade](https://twitter.com/angularbelgrade) group.
 In my spare time, I like to contribute to open-source software, share my knowledge through technical articles and talks, and play the guitar.
 
@@ -18,5 +18,5 @@ In my spare time, I like to contribute to open-source software, share my knowled
 
 ### Talks
 
+- [🇬🇧 NgRx Store - Tips for Better Code Hygiene | Angular Virtual Conference '22 by ng-Keralam | Jan 29, 2022](https://youtu.be/cSROnw5DuRs?t=14394)
 - [🇷🇸 Angular Under the Hood | Angular Belgrade Meetup | Apr 21, 2021](https://youtu.be/xdQlOZabDtM?t=3477)
-
