@@ -18,5 +18,6 @@ In my spare time, I like to contribute to open-source software, share my knowled
 
 ### Talks
 
+- [🇬🇧 NgRx Tips for Future-Proof Angular Apps | Angular Day by WeAreDevelopers | Mar 9, 2022](https://youtu.be/FFXOrWDuZks?t=7342)
 - [🇬🇧 NgRx Store - Tips for Better Code Hygiene | Angular Virtual Conference '22 by ng-Keralam | Jan 29, 2022](https://youtu.be/cSROnw5DuRs?t=14394)
 - [🇷🇸 Angular Under the Hood | Angular Belgrade Meetup | Apr 21, 2021](https://youtu.be/xdQlOZabDtM?t=3477)
