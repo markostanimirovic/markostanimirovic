@@ -19,6 +19,7 @@ In my spare time, I like to contribute to open-source software, share my knowled
 
 ### Talks
 
+- [🇬🇧 NgRx Effects - Avoiding Common Pitfalls | Angular Kenya Meetup | May 4, 2022](https://youtu.be/6Obkrru_St8)
 - [🇷🇸 NgRx - Core Principles | TXS Angular Meetup | Apr 19, 2022](https://youtu.be/EX0-YSCOHhE?t=6335)
 - [🇬🇧 NgRx Tips for Future-Proof Angular Apps | Angular Day by WeAreDevelopers | Mar 9, 2022](https://youtu.be/FFXOrWDuZks?t=7342)
 - [🇬🇧 NgRx Store - Tips for Better Code Hygiene | Angular Virtual Conference '22 by ng-Keralam | Jan 29, 2022](https://youtu.be/cSROnw5DuRs?t=14394)
