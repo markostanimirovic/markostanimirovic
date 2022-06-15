@@ -11,6 +11,7 @@ In my spare time, I like to contribute to open-source software, share my knowled
 
 ### Articles
 
+- [Using NgRx Packages with Standalone Angular Features](https://dev.to/ngrx/using-ngrx-packages-with-standalone-angular-features-53d8)
 - [NgRx Action Group Creator](https://dev.to/ngrx/ngrx-action-group-creator-1deh)
 - [Building Count-Up Animation with Angular and RxJS](https://dev.to/angular/building-count-up-animation-with-angular-and-rxjs-240k)
 - [NgRx Tips I Needed in the Beginning](https://dev.to/this-is-angular/ngrx-tips-i-needed-in-the-beginning-4hno)
