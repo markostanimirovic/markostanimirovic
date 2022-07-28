@@ -21,6 +21,7 @@ In my spare time, I like to contribute to open-source software, share my knowled
 
 ### Talks
 
+- [🇬🇧 NgRx Action Group Creator | Angular Community Meetup | Jul 12, 2022](https://youtu.be/E9RDS7lcQns?t=697)
 - [🇬🇧 NgRx Effects - Avoiding Common Pitfalls | Angular Kenya Meetup | May 4, 2022](https://youtu.be/6Obkrru_St8)
 - [🇷🇸 NgRx - Core Principles | TXS Angular Meetup | Apr 19, 2022](https://youtu.be/EX0-YSCOHhE?t=6335)
 - [🇬🇧 NgRx Tips for Future-Proof Angular Apps | Angular Day by WeAreDevelopers | Mar 9, 2022](https://youtu.be/FFXOrWDuZks?t=7342)
