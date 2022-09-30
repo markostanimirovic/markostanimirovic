@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Marko Stanimirović
 
-I'm a core member of the [NgRx](https://github.com/ngrx/platform) team, Senior Frontend Engineer at [JobCloud](https://www.jobcloud.ch/c/en), and organizer of the [Angular Belgrade](https://twitter.com/angularbelgrade) group. I enjoy contributing to open source software, sharing knowledge through technical articles and talks, and playing guitar.
+I'm a core member of the [NgRx](https://github.com/ngrx/platform) team, a Google Developer Expert in [Angular](https://angular.io), and an organizer of the [Angular Belgrade](https://twitter.com/angularbelgrade) group. I enjoy contributing to open source software, sharing knowledge through technical articles and talks, and playing guitar. I'm also a Master of Science in Software Engineering from the University of Belgrade.
 
 - [Twitter](https://twitter.com/MarkoStDev)
 - [LinkedIn](https://www.linkedin.com/in/markostanimirovic)
