@@ -20,6 +20,7 @@ I'm a core member of the [NgRx](https://github.com/ngrx/platform) team, a Google
 ### Talks
 
 - [🇬🇧 NgRx - Core Principles & New Features | Angular Global Summit '23 | Feb 14, 2023](https://youtu.be/tWCM69cucOA?t=8768)
+- [🇬🇧 NgRx Feature Creator | ng-conf 2022 | Aug 31, 2022](https://youtu.be/t69Hj1V9DuE)
 - [🇬🇧 NgRx Action Group Creator | Angular Community Meetup | Jul 12, 2022](https://youtu.be/E9RDS7lcQns?t=697)
 - [🇬🇧 NgRx Effects - Avoiding Common Pitfalls | Angular Kenya Meetup | May 4, 2022](https://youtu.be/6Obkrru_St8)
 - [🇷🇸 NgRx - Core Principles | TXS Angular Meetup | Apr 19, 2022](https://youtu.be/EX0-YSCOHhE?t=6335)
