@@ -19,6 +19,7 @@ I'm a core member of the [NgRx](https://github.com/ngrx/platform) team, a Google
 
 ### Talks
 
+- [🇬🇧 Revealing the TypeScript Magic behing NgRx APIs | Mar 02, 2023](https://youtu.be/V6eHIvwDFP4)
 - [🇬🇧 NgRx - Core Principles & New Features | Angular Global Summit '23 | Feb 14, 2023](https://youtu.be/tWCM69cucOA?t=8768)
 - [🇬🇧 NgRx Feature Creator | ng-conf 2022 | Aug 31, 2022](https://youtu.be/t69Hj1V9DuE)
 - [🇬🇧 NgRx Action Group Creator | Angular Community Meetup | Jul 12, 2022](https://youtu.be/E9RDS7lcQns?t=697)
