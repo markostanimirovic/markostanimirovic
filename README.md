@@ -9,6 +9,7 @@ I'm a core member of the [NgRx](https://github.com/ngrx/platform) team, a Google
 
 ### Articles
 
+- [Announcing NgRx v16: Integration with Angular Signals, Functional Effects, Standalone Schematics, and more!](https://dev.to/ngrx/announcing-ngrx-v16-integration-with-angular-signals-functional-effects-standalone-schematics-and-more-5gk6)
 - [Building Reactive Angular Templates with NgRx Component](https://dev.to/ngrx/building-reactive-angular-templates-with-ngrx-component-4m1e)
 - [Using NgRx Packages with Standalone Angular Features](https://dev.to/ngrx/using-ngrx-packages-with-standalone-angular-features-53d8)
 - [NgRx Action Group Creator](https://dev.to/ngrx/ngrx-action-group-creator-1deh)
